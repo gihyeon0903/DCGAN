@@ -3,7 +3,7 @@
 
 ### Datasets
 -------------------
-CelebA : 약 20k개의 연예인 얼굴 datasets
+<a href='https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html'>CelebA</a> : 약 20k개의 연예인 얼굴 datasets
 
 <p align="center">
   <img src="./result/celeba.jfif" width="300" height="200"/>
