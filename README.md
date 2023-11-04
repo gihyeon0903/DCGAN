@@ -12,6 +12,8 @@
 ### Model
 -------------------
 DCGAN
+
+<a href='https://drive.google.com/drive/folders/1LtAKipP0b6bzJz09njBBAYZRVnkU211y?usp=drive_link'>Weights</a>
 <p align="center">
   <img src="./result/model.png" width="700" height="150"/>
 </p>
