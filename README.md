@@ -58,5 +58,5 @@ epochs : 10, learning rate : 0.0005, optimizer : Adam(Beta1, 2 = 0.5), Loss : Mi
 #### 4. Walking in the latent Space
 * Image A <-> Image B (interpolation)
 <p align="center">
-  <img src="./result/Walking in the latent Space.png" width="700" height="260"/>
+  <img src="./result/Walking in the latent Space 2.png" width="900" height="90"/>
 </p>
