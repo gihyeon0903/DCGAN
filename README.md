@@ -49,7 +49,14 @@ epochs : 10, learning rate : 0.0005, optimizer : Adam(Beta1, 2 = 0.5), Loss : Mi
   <img src="./result/neutral_woman_epoch.gif" width="350" height="260"/>
 </p>
 
-#### 4. Generated Image corresponding to change in z value
+#### 3. Vector Arithmetic
+* Smile Man - Neutral Man + Neutral Woman = Smile Woman
 <p align="center">
-  <img src="./result/out2.gif" width="440" height="350"/>
+  <img src="./result/vector arithmetic.gif" width="350" height="260"/>
+</p>
+
+#### 4. Walking in the latent Space
+* Image A <-> Image B (interpolation)
+<p align="center">
+  <img src="./result/Walking in the latent Space.png" width="700" height="260"/>
 </p>
